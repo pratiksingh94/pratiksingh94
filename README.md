@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratik
 - 👀 I’m interested in ...Coding And Discord 
-- 🌱 I’m currently learning ...C++ 
-- 😏 My Discord - Pratik.JS#1746
+- 🌱 I’m currently learning ... Rust
+- 😏 My Discord - Pratik#6965
 - 📫 How to reach me .... You can't reach me 😂
 
 <!---
