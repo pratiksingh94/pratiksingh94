@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik12350&label=Profile%20views&color=0e75b6&style=flat" alt="pratik12350" /> </p>
 
 
-- I'm currently working on [coreutils-in-nodejs](https://github.com/pratik12350/coreutils-in-nodejs/)
+- I'm currently working on [NutsLang](https://github.com/pratik12350/NutsLang/)
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently learning **Nothing**
 
-- 🤝 I’m looking for help with [coreutils-in-nodejs issues](https://github.com/pratik12350/coreutils-in-nodejs/issues)
+- 🤝 I’m looking for help with [Nothing](https://therickroll.com)
 
 - My GitHub is my portfolio [https://github.com/pratik12350/](https://github.com/pratik12350/)
 
 - 💬 Ask me about **Backend, nodejs, JavaScript, api development and discord bot development**
 
-- 📫 How to reach me **Discord: Pratik#6965**
+- 📫 How to reach me **Discord: @notpratik**
 
 - ⚡ Fun fact **Every fun fact is not fun**
 
