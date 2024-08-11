@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pratik</h1>
-<h3 align="center">A Random Backend developer from India</h3>
+<h3 align="center">A Random developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratik12350&label=Profile%20views&color=0e75b6&style=flat" alt="pratik12350" /> </p>
 
 
 - I'm currently working on [NutsLang](https://github.com/pratik12350/NutsLang/)
 
-- 🌱 I’m currently learning **Nothing**
-
-- 🤝 I’m looking for help with [Nothing](https://therickroll.com)
+- 🌱 I’m currently learning **Cybersecurity**
 
 - My GitHub is my portfolio [https://github.com/pratik12350/](https://github.com/pratik12350/)
 
-- 💬 Ask me about **Backend, nodejs, JavaScript, api development and discord bot development**
+- 💬 Ask me about **nodejs, JavaScript, discord bot development, linux, etc**
 
 - 📫 How to reach me **Discord: @notpratik**
 
