@@ -1,5 +1,5 @@
 # 💫 About Me:
-Yo what's up!?<br>I am 16 year old guy from India who is coding random things he was 12 and is proud of this shi :)<br>Jack of All Trades, master of none, but often better than master of one...<br>'Cause I am lowkey interested in everything frontend, backend, embedded systems, etc.<br>But more passionate towards cybersecurity and red-teaming.<br>
+Yo what's up!?<br>I am 17 year old dude from India who is coding random things since he was 12 and is proud of this shi :)<br>Jack of All Trades, master of none, but often better than master of one...<br>'Cause I am lowkey interested in everything frontend, backend, embedded systems, etc.<br>But more passionate towards cybersecurity and red-teaming.<br>
 
 
 ## 🌐 Socials:
