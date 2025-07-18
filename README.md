@@ -4,7 +4,7 @@
 
 <!-- <h1 align="center">Pratik Singh 👾</h1> -->
 <p align="center">
-  <i>Cybersecurity Enthusiast • (Aspiring) Security Analyst • Developer</i><br>
+  <i>Cybersecurity Enthusiast • Blue Team • Developer</i><br>
   <a href="https://pratiksingh.xyz">Website</a> • 
   <a href="https://pratiksingh.xyz/blog">Blog</a> • 
   <a href="https://x.com/Plutonium1309">X: @Plutonium1309</a> • 
