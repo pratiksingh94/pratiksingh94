@@ -13,7 +13,7 @@
 
 ## whoami
 
-18 y/o developer and security enthusiast from Odisha, India. Got into programming at 12, have been building things ever since. Mostly interested in the space where development and security overlap — writing tools, understanding how attacks work so I can think about defense better, and setting up the kind of infrastructure that tells you when something's wrong.
+18 y/o developer and security enthusiast from Odisha, India. Got into programming at 12, have been building things ever since. Mostly interested in the security and development.
 
 Currently learning Japanese 🇯🇵 (N5 → targeting N3)
 
